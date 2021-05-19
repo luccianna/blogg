@@ -1,0 +1,33 @@
+body{
+	color: black;
+	background-color: rgb(255,255,255);
+	font-family: cursive;
+	font-size: 15px;
+	line-height: 20px;
+	text-align: center;
+}
+
+h1{
+	font-variant: small-caps;
+	letter-spacing: 1px;
+	font-size: 40px;
+	color: #a35696;
+}
+
+p{
+	padding: 0px 150px;
+}
+
+.photo{
+	border-radius: 15px;
+	box-shadow: 10px 10px 15px lightblue
+}
+
+a{
+	color: #a35696;
+	text-decoration: none;
+}
+
+a:hover{
+	color: pink;
+}
